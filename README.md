@@ -6,5 +6,5 @@
 
 ## Installation
 
-* Run `git clone https://github.com/Drugstore1984/Archero-gameplay.git`
+* Run `git clone https://github.com/Drugstore1984/HangmanGame.git`
 * Open project in Unity
